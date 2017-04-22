@@ -1,5 +1,5 @@
 classdef AICsimP<AICBenchP
-    
+    %
     properties
         impulseResponse = [];
     end
